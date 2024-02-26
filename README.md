@@ -1,7 +1,7 @@
 # Text-Summarizer-NLP
 
 
-Please download the saved model from the given link
+Please download my trained model from the given link
 
 https://drive.google.com/uc?export=download&id=1xx3b0HBp8W5OMmHxSLfkjrY5dghcJs67
 
